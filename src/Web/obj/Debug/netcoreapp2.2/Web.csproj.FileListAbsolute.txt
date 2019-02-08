@@ -33,3 +33,4 @@ C:\Users\S533626\Documents\44663\Home\src\Web\obj\Debug\netcoreapp2.2\Razor\View
 C:\Users\S533626\Documents\44663\Home\src\Web\obj\Debug\netcoreapp2.2\Razor\Views\House\Independent.g.cshtml.cs
 C:\Users\S533626\Documents\44663\Home\src\Web\obj\Debug\netcoreapp2.2\Razor\Views\House\Index.g.cshtml.cs
 C:\Users\S533626\Documents\44663\Home\src\Web\obj\Debug\netcoreapp2.2\Razor\Views\House\Privacy.g.cshtml.cs
+C:\Users\S533626\Documents\44663\Home\src\Web\obj\Debug\netcoreapp2.2\Razor\Views\House\Villa.g.cshtml.cs

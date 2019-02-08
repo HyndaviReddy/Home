@@ -2,8 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\src",
-    "\\src\\src",
     "\\src\\Web",
+    "\\src\\Web\\Controllers",
+    "\\src\\Web\\Views",
+    "\\src\\Web\\Views\\House",
+    "\\src\\Web\\Views\\Shared",
     "\\tests",
     "\\tests\\FunctionalTests"
   ],
