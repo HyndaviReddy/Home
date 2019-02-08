@@ -6,10 +6,11 @@
     "\\src\\Web\\Controllers",
     "\\src\\Web\\Views",
     "\\src\\Web\\Views\\House",
-    "\\src\\Web\\Views\\Shared",
     "\\tests",
-    "\\tests\\FunctionalTests"
+    "\\tests\\UnitTests",
+    "\\tests\\UnitTests\\obj\\Debug",
+    "\\tests\\UnitTests\\obj\\Release"
   ],
-  "SelectedNode": "\\Home.sln",
+  "SelectedNode": "\\tests\\UnitTests\\UnitTest1.cs",
   "PreviewInSolutionExplorer": false
 }
